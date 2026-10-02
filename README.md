@@ -14,7 +14,7 @@
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,pandas,numpy,sklearn,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,pandas,numpy,sklearn,pytorch,tensorflow,powerbi,excel,opencv" />
 </p>
 
 <br>
