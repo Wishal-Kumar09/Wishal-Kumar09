@@ -14,3 +14,11 @@
 </table>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="./whoami.svg" width="486">
+
+</div>
